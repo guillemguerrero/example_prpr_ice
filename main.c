@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
+    printf("Menu\n");
+    printf("1. Create\n")
 
-	printf("Hello PrPr-1 class!! Wake up :)\n");
-
-	return 0;
+    return 0;
 }
