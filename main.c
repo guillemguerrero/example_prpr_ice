@@ -6,6 +6,7 @@ int main() {
 	printf("Create whatever\n");
 	printf("Update whatever\n");
 	printf("List whatever\n");
+	printf("Delete whatever\n");
 
 	return 0;
 }
