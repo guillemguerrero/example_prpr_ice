@@ -1,8 +1,18 @@
 #include <stdio.h>
 
-int main() {
 
-    printf("Hello PrPr-1 class!! Wake up :)\n");
+void inputMainMenu(){
+	int userinputmain = 0; 
+	printf("1. Create |");
+	printf("Input: ");
+	scanf("%d", &userinputmain); 
+	
+}
 
-	return 0;
+int main(void) {
+  
+	inputMainMenu(); 
+
+
+  return 0;
 }
