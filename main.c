@@ -4,6 +4,7 @@
 void inputMainMenu(){
 	int userinputmain = 0; 
 	printf("1. Create |");
+    printf("2. Update |");
 	printf("Input: ");
 	scanf("%d", &userinputmain); 
 	
