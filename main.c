@@ -6,6 +6,7 @@ void inputMainMenu(){
 	printf("1. Create |");
     printf("2. Update |");
     printf("3. List |");
+    printf("4. Delete");
 	printf("Input: ");
 	scanf("%d", &userinputmain); 
 	
