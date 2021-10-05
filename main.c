@@ -2,7 +2,8 @@
 
 int main() {
 
-	printf("Hello PrPr-1 class!! Wake up :)\n");
+	printf("MENU\n");
+	printf("Create whatever\n");
 
 	return 0;
 }
