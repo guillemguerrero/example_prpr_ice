@@ -9,5 +9,7 @@ int main() {
 
 	printf("\t3. List\n"); // Third Commit
 
+	printf("\t4. Delete\n"); // Fourth Commit
+
 	return 0;
 }
