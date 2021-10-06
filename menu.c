@@ -6,6 +6,6 @@ int main(){
 	printf("2. Update\n");
 	printf("3. List\n");
 	printf("4. Delete\n");
-	
+	printf("Hello Kekw");	
 
 }
